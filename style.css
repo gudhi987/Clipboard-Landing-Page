@@ -217,6 +217,7 @@ header > svg {
         box-sizing: border-box;
         padding-inline: 2rem;
     }
+
     .download-buttons {
         flex-direction: column;
         gap: 1rem;
@@ -226,7 +227,7 @@ header > svg {
         justify-content: center;
         align-items: center;
         gap: 5rem;
-        padding-right: 0px;
+        padding-right: 2rem;
     }
     .key-features h4,.key-features p {
         text-align: center;
